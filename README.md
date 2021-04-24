@@ -16,4 +16,4 @@ Welcome to my repository for  the `NU Fintech BootCamp`!
 print("Welcome to Fintech!")
 ```
 ---
-[LinkdeIn]("https://www.linkedin.com/feed/")
+[Linkdeln](https://www.linkedin.com/feed/)
